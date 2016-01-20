@@ -1,2 +1,1 @@
-# TestProject
-Testing to create a GIT hub project
+Created a new GITHUB Project for testing.
